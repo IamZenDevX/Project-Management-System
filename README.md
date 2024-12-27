@@ -45,6 +45,7 @@ The platform will require a relational database to manage User master, task , or
 <h3 align="left">Tables:</h3>
 ---
 
+
 ### a) user master
 
 | **Field Name** | **Type** |

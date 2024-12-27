@@ -43,6 +43,7 @@ A Project Management System (PMS) is a Combining all the tools supposed to maxim
 The platform will require a relational database to manage User master, task , organzation , project and report . Below is a proposed database structure with the key tables.
 
 <h3 align="left">Tables:</h3>
+
 ---
 
 
